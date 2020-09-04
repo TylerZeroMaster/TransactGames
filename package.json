@@ -1,0 +1,14 @@
+{
+  "name": "transact-games",
+  "version": "1.0.0",
+  "description": "This is the entire project",
+  "main": "./rest-service/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Nullmeier",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^6.12.0"
+  }
+}
